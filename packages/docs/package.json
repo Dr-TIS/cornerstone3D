@@ -43,7 +43,7 @@
     "clsx": "^1.1.1",
     "dcmjs": "^0.29.8",
     "detect-gpu": "^5.0.22",
-    "dicom-parser": "^1.8.11",
+    "dicom-parser": "github:Dr-TIS/dicomParser",
     "dicomweb-client": "^0.8.4",
     "docusaurus-plugin-copy": "^0.1.1",
     "docusaurus-plugin-typedoc-api": "^2.5.1",

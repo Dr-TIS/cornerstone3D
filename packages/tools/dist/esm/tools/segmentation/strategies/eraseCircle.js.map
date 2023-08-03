@@ -1,0 +1,1 @@
+{"version":3,"file":"eraseCircle.js","sourceRoot":"","sources":["../../../../../src/tools/segmentation/strategies/eraseCircle.ts"],"names":[],"mappings":"AAEA,OAAO,EAAE,gBAAgB,EAAE,MAAM,cAAc,CAAC;AAehD,MAAM,UAAU,iBAAiB,CAC/B,cAAqC,EACrC,aAA4B;IAI5B,MAAM,kBAAkB,GAAG;QACzB,GAAG,aAAa;QAChB,YAAY,EAAE,CAAC;KAChB,CAAC;IAEF,gBAAgB,CAAC,cAAc,EAAE,kBAAkB,CAAC,CAAC;AACvD,CAAC"}
